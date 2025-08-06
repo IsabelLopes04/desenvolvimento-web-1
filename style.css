@@ -1,5 +1,53 @@
-p {font-size: 18px;}
+*{
 
-h1 {text-align: center;}
+    margin: 0;
+}
 
-footer {width: 1000%;}
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#header {
+    background-color: rgba(14, 122, 113);
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+#carrosel1 {
+    background-color: rgba(14, 122, 113, 0.616);
+    width: 400px;
+    height: 400px;
+    border-radius: 50px;
+
+}
+
+#carrosel2 {
+    background-color: rgb(14, 122, 113, 0.616);
+    width: 400px;
+    height: 400px;
+    border-radius: 50px;
+
+}
+
+#carrosel3 {
+    background-color: rgb(14, 122, 113, 0.616);
+    width: 400px;
+    height: 400px;
+    border-radius: 50px;
+}
+.central {
+
+display: flex;
+justify-content: center;
+gap: 20px;
+padding-top: 50px;
+
+}
