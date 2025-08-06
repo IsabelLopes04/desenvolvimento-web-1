@@ -13,6 +13,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 25px;
+    text-align: center;
+
+}
+
 #header {
     background-color: rgba(14, 122, 113);
     height: 120px;
@@ -44,14 +50,6 @@ h1 {
     border-radius: 50px;
 }
 
-#rolimg{
-    background-color: rgb(14, 122, 113, 0.616);
-    width: 400px;
-    height: 900px;
-    border-radius: 50px;
-
-
-}
 .central {
 
 display: flex;
