@@ -45,3 +45,5 @@ class - pode ser usado diversas vezes
 
 
 margin - jogar automatico em ambas as divs, ligo display flex e centraliza a div 
+
+como centralizar as divs, colocar aut em ambos os lados 
