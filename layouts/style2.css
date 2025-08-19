@@ -1,14 +1,14 @@
 * {
     margin: 0;
 
-}
 
+}
 
 
 #header {
     background-color: blue;
-    height: 200px;
-    width: 85vw;
+    height:90px
+    width: 750px
 
    
 }
@@ -21,10 +21,19 @@
 
 #footer {
     background-color: rgb(0, 255, 242);
-    height: 200px;
+    height: 750px
     display: flex;
     
 }
+
+#aside {
+
+    width: 150px
+    heo
+
+}
+ 
+
 
 
 .central {
@@ -32,3 +41,4 @@ display: flex;
 gap: 1500px;
 
 }
+

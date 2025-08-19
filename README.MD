@@ -43,3 +43,5 @@
 id - identificador único, não posso usar ele novamente no html
 class - pode ser usado diversas vezes 
 
+
+margin - jogar automatico em ambas as divs, ligo display flex e centraliza a div 
